@@ -1,4 +1,4 @@
-# _Brasil como destino turístico_
+# Brasil como destino turístico
 Brasil es un destino turístico destacado por su diversidad natural, con una impresionante variedad de paisajes que incluyen selvas, montañas y playas. Su rica cultura, influenciada por diversas tradiciones, se refleja en su música, gastronomía y festividades. Además, la mezcla entre lo urbano y lo natural ofrece a los visitantes una experiencia única, donde se combinan la modernidad de las ciudades con la exuberancia de su entorno. Este equilibrio entre naturaleza, cultura y vida urbana convierte a Brasil en un destino atractivo para todo tipo de viajeros.
 
 ### Playas Imperdibles para Explorar: Un Recorrido por los Destinos Costeros Más Atractivos
