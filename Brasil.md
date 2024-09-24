@@ -46,11 +46,13 @@ La gastronomía brasileña es un reflejo de la diversidad cultural del país, fu
 
   - Playa de Río de Janeiro
 ![rio.jpg](rio.jpg)
+  
   - Playa de Quatro Ilhas
-![4ilhas.jpg](4ilhas.jpg)
+  ![4ilhas.jpg](4ilhas.jpg)
 
 - #### Gastronomía:
   - Feijoada
 ![feijoada.jpg](feijoada.jpg)
+   
   - Brigadeiro
 ![brigadeiro.jpg](brigadeiro.jpg)
